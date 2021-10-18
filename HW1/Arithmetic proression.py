@@ -1,0 +1,5 @@
+a_1=int(input())
+a_2=int(input())
+n=int(input())
+a_n=a_1+(n-1)*(a_2-a_1)
+print(a_n)
